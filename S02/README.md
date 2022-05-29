@@ -10,12 +10,12 @@
 
 - Create computation graph.
 - Execution graph in tensorflow 1 by session.
-- Write tensorflow 1 command in tensorflow 2.
+- Write tensorflow 1 commands in tensorflow 2.
 
-**ch21**
+**ch22**
 
 - Create computation dynamic graph.
 
-**ch21**
+**ch23**
 
 - Create computation static graph by ```function```
