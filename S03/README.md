@@ -3,6 +3,6 @@
 
 - Define random data as a dataset and plot it
 - Define a linear regression
-- Define loss fuction
-- Defien train (use gradient descent)
-- Define a loop to repeat train process and use loss fuction
+- Define loss function
+- Define train (use gradient descent)
+- Define a loop to repeat the training process and use loss function
