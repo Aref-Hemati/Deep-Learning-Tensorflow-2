@@ -13,5 +13,5 @@
 - Define an output dense layer with a softmax activation function
 - Define stochastic gradient descent (SGD )optimizer 
 - Model compile with the defined optimizer, loss function, and metrics (A metric is a function that is used to judge the performance of your model. Metric functions are similar to loss functions, except that the results from evaluating a metric are not used when training the model. Note that you may use any loss function as a metric.)
-- train model with train data and set epochs for repeat count and batch size (to define the count of input images), Moreover Define validation data 
+- Train model with train data, set epochs and batch size (to define the count of input images), Moreover Define validation data 
 - evaluate model by test data
