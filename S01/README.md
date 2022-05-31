@@ -1,5 +1,5 @@
 
-**Very basic sample by tensorflow**
+Very basic sample in tensorflow
 
 **Instal tensorflow**
 ```

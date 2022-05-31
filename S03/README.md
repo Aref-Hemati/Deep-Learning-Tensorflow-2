@@ -1,5 +1,5 @@
 
-**chap3:**
+**chap3:** Define learning model optimization in TensorFlow on linear regression
 
 - Define random data as a dataset and plot it
 - Define a linear regression

@@ -1,5 +1,7 @@
 
-**ch2:**
+Define tensor, dynamic and static computation graph
+
+**ch2:** 
 
 - Define constant tensor including number, vector, and matrix
 - Define tensor variable  including number and array

@@ -1,5 +1,5 @@
 
-**chap4:**
+**chap4:** Example of Nural network definition in TensorFlow on fashion mnist dataset
 
 - Define a dataset from Keras
 - Data normalization 
