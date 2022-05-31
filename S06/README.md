@@ -1,4 +1,4 @@
-**chap6:** Recurrent neural network
+**chap6:** Recurrent neural network in Tensorflow 2
 sample: LSTM for Text Classification
 
 - import dataset from Keras
