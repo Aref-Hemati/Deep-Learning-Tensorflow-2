@@ -1,6 +1,6 @@
 **chap7:** DCGAN in Tensorflow 2 on fashion MNist Dataset
 
-- Define sie of the noise vector
+- Define size of the noise vector
 - Load fashion MNist dataset
 - Data normalization
 - Use tf. data API enables you to build complex input pipelines from simple, reusable pieces
