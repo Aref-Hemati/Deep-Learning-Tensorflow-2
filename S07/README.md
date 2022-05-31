@@ -1,5 +1,4 @@
 **chap7:** DCGAN in Tensorflow 2 on fashion MNist Dataset
-sample: LSTM for Text Classification
 
 - Define sie of the noise vector
 - Load fashion MNist dataset
