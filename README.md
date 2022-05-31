@@ -4,9 +4,9 @@
 Developed by the Google Brain Team, TensorFlow is an open-source platform that helps machine learning engineers and data scientists build models and deploy applications easily. With TensorFlow, getting started, building models, and debugging is made easy with access to high-level APIs like Keras. TensorFlow is equipped with features, like state-of-the-art pre-trained models, popular machine learning datasets, and increased ease of execution for mathematical computations, making it popular among seasoned researchers and students alike.
 
 
-**S01** Very basic sample in tensorflow
+**S01:** Very basic sample in tensorflow
 
-**S02** Define tensor, dynamic and static computation graph
+**S02:** Define tensor, dynamic and static computation graph
 
 **S03:** Define learning model optimization in TensorFlow on linear regression
 
