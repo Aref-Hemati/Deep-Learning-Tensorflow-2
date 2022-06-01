@@ -22,4 +22,4 @@ Developed by the Google Brain Team, TensorFlow is an open-source platform that h
 
 **S09:**  Using Tensorboard (in example of Nural network definition in TensorFlow on fashion mnist dataset)
 
-**S10:** Tensorflow Serving**
+**S10:** Tensorflow Serving
