@@ -17,3 +17,9 @@ Developed by the Google Brain Team, TensorFlow is an open-source platform that h
 **S06:** Recurrent neural network in Tensorflow 2 (sample: LSTM for Text Classification)
 
 **S07:** DCGAN in Tensorflow 2 on fashion MNist Dataset
+
+**S08:** Static and dynamic graph model execution time 
+
+**S09:**  Using Tensorboard (in example of Nural network definition in TensorFlow on fashion mnist dataset)
+
+**S10:**Tensorflow Serving**
