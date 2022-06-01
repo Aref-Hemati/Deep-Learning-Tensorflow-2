@@ -1,7 +1,7 @@
 **Tensorflow Serving**
 
 **cha9**
-- use the model created in "S09/Cha9"
+- Use the model created in "S09/Cha9"
 - Save model (set file path) with 'tf' file format
 
 **Create a TensorFlow docker image from model**
@@ -13,8 +13,8 @@
 
 **Create a TensorFlow docker image from model**
 
-- load test data
+- Load test data
 - Data normalization
-- create JSON request  data and use test data as an instance 
-- create post request on localhost with defined port, model name, target function (predict), and defined JSON request  data
-- load response and print it
+- Create JSON request  data and use test data as an instance 
+- Create post request on localhost with defined port, model name, target function (predict), and defined JSON request  data
+- Load response and print it
